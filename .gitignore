@@ -3,3 +3,5 @@ target/
 dbt_packages/
 logs/
 .env
+HW4.docx
+HW4.pdf
